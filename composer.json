@@ -1,0 +1,32 @@
+{
+	"name": "unknownbliss/bootstrap-bundle",
+	"description": "A quick symfony bundle including bootstrap to allow easy updating of bootstrap across my symfony sites.",
+	"keywords": ["bootstrap", "bundle", "symfony"],
+	"type": "symfony-bundle",
+	"homepage": "http://michaelcullum.com",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "MichaelC",
+			"username": "unknownbliss",
+			"email": "m@michaelcullum.com",
+			"homepage": "https://michaelcullum.com/"
+		}
+	],
+    "support": {
+        "irc": "irc://irc.freenode.org/unknownbliss"
+    },
+	"require": {
+		"symfony/symfony": "2.1.*"
+	},
+	"minimum-stability": "dev",
+	"autoload": {
+		"psr-0": { "Unknownbliss\\BootstrapBundle": "" }
+	},
+	"target-dir": "Unknownbliss/BootstrapBundle",
+	"extra": {
+		"branch-alias": {
+			"dev-master": "1.0.0-dev"
+		}
+	}
+}
