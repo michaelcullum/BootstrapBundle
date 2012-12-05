@@ -1,6 +1,6 @@
 {
 	"name": "unknownbliss/bootstrap-bundle",
-	"description": "A quick symfony bundle including bootstrap to allow easy updating of bootstrap across my symfony sites.",
+	"description": "A quick symfony bundle including bootstrap to allow easy updating of bootstrap across symfony sites.",
 	"keywords": ["bootstrap", "bundle", "symfony"],
 	"type": "symfony-bundle",
 	"homepage": "http://michaelcullum.com",
